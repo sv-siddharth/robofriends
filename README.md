@@ -1,6 +1,6 @@
 # robofriends
 
-React webapp with search functionaly of user cards containing their info. Placeholder data can be found here:https://jsonplaceholder.typicode.com/user
+React webapp with search functionaly of user cards containing their info. Placeholder data can be found here:https://jsonplaceholder.typicode.com/
 
 Tutorial for React To run the project:
 
